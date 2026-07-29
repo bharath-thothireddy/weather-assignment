@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A modern, frosted glass weather application with 7-day forecasting, interactive charts, 3D globe, and smart insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
